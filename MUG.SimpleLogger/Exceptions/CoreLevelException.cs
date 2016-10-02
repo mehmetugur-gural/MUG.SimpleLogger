@@ -22,6 +22,5 @@ namespace MUG.SimpleLogger.Exceptions
 
             exceptionService.Execute(exceptionMessage, publishers);
         }
-
     }
 }
